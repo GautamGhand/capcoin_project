@@ -3,7 +3,7 @@
 
 <head>
     <title>SEARCH PAGE</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
 </head>
 
@@ -99,7 +99,7 @@
             ?>
         </section>
         <section>
-            <img src="graph.png" class="graph">
+            <img src="images/graph.png" class="graph">
         </section>
 </body>
 

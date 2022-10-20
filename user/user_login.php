@@ -10,7 +10,7 @@ if (isset($_POST['submit']))
 
 <head>
     <title>USER LOGIN PAGE</title>
-    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
 
 <body class="loginbody">
@@ -18,7 +18,7 @@ if (isset($_POST['submit']))
         <H1 class="heading">USER LOGIN PAGE</H1>
         <section class="frm">
             <div>
-            <img src="../coincap.png" class='logoheading' alt="not found">
+            <img src="../images/coincap.png" class='logoheading' alt="not found">
             </div>
             <div>
             <form action="user_login.php" method="POST">

@@ -10,7 +10,7 @@ if (isset($_POST['signup']))
 
 <head>
     <title>CREATE USER</title>
-    <link rel="stylesheet" type="text/css" href="../style.css">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
 
 <body>

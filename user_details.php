@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="../css/style.css">
 <?php 
 session_start();
 if(!isset($_SESSION['login']))
